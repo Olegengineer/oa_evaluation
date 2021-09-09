@@ -6,4 +6,4 @@ First you need to install all libraries:
 
 To start project you can run:
 
-### `npm start`
+### `npm run dev`
